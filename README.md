@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **JavaScript KC Slack** should be a safe place for everybody regardless of
+The **Data Science KC Slack App** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -46,6 +46,10 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
 
-* Josh Durham - @josh
+* @josh
+* @nicki6
+* @matt_habiger
+* @Jeff Herman
+* @Todd Stuart
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
